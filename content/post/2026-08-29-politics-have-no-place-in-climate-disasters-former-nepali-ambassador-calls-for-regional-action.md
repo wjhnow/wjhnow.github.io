@@ -19,6 +19,7 @@ Because Nepal sits directly within the core of the Himalayan glacier network, it
 According to Dr. Oli, managing this reality requires deep, sustained research into:
 
 - 
+
 - **The root causes** of high-altitude glacial shifts.
 - **Early warning systems** to protect vulnerable communities before disasters hit.
 - **Joint emergency response and mitigation tactics** for immediate post-disaster management.
@@ -41,6 +42,7 @@ True ecological security in the Himalayas can’t be built by one country alone.
 If you'd like to tailor this further, let me know:
 
 - 
+
 - What is the typical **target audience or niche** of your blog?
 - Do you want to include **current statistics** on the recent border flood to give it a news-update feel?
 - Would you prefer a more **conversational or opinion-focused** tone?
