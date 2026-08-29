@@ -26,8 +26,10 @@ content:
       - name: image
         type: image
         label: Cover Image
-      - name: tags
-        type: string
+      -  name: tags
+         label: Tags
+         type: list
+         required: false
       - name: categories
         type: string
       - name: body
