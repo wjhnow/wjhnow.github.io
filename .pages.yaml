@@ -1,0 +1,43 @@
+media: static
+
+content:
+  - name: posts
+    label: Blog Posts
+    type: collection
+    path: content/post
+    filename: "{year}-{month}-{day}-{primary}.md"
+    format: yaml-frontmatter
+    view:
+      fields: [title, date]
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: date
+        type: date
+        options:
+          format: "yyyy-MM-dd"
+      - name: description
+        type: text
+      - name: tags
+        type: string
+      - name: categories
+        type: string
+      - name: image
+        type: image
+      - name: body
+        type: rich-text
+        required: true
+
+  - name: pages
+    label: Pages
+    type: collection
+    path: content
+    exclude: ["post/**"]
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
