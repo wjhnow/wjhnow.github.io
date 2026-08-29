@@ -1,4 +1,6 @@
-/* 16:9 with logo edge protected */
+/* ==========================================================================
+   1. Image Styles (16:9 Aspect Ratio & Positioning)
+   ========================================================================== */
 .article-list article .article-image,
 .main-article .article-image {
   aspect-ratio: 16 / 9 !important;
@@ -13,7 +15,12 @@
   object-fit: cover !important;
   object-position: 72% 65% !important; /* shifted to keep thin logo edge visible */
 }
-.share-buttons {
+
+/* ==========================================================================
+   2. Component Styles (Share Buttons Base Layout)
+   ========================================================================== */
+.share-buttons,
+.footer-share {
   margin-top: 2rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--card-separator-color);
@@ -22,6 +29,7 @@
   align-items: center;
   flex-wrap: wrap;
   font-size: 0.95rem;
+  color: var(--body-text-color); /* Dynamically uses theme font colors */
 
   a, button {
     padding: 0.4rem 0.9rem;
@@ -35,12 +43,38 @@
 
     &:hover {
       background: var(--accent-color);
-      color: white;
+      color: #ffffff !important;
       border-color: var(--accent-color);
     }
   }
 
   button {
     font: inherit;
+  }
+}
+
+/* ==========================================================================
+   3. Dark Mode Core Overrides
+   ========================================================================== */
+html[data-theme="dark"] {
+  .share-buttons,
+  .footer-share {
+    color: var(--body-text-color) !important;
+
+    /* Enforce legible text colors inside the block components */
+    span, p, h1, h2, h3, h4, div {
+      color: var(--body-text-color) !important;
+    }
+
+    a, button {
+      background: var(--card-background) !important;
+      border-color: var(--card-separator-color) !important;
+      color: var(--body-text-color) !important;
+
+      &:hover {
+        background: var(--accent-color) !important;
+        color: #ffffff !important;
+      }
+    }
   }
 }
