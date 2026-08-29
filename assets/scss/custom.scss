@@ -1,5 +1,4 @@
-/* ========== Consistent 16:9 crop for both homepage & single post ========== */
-
+/* Force 16:9 style on both homepage and single post */
 .article-list article .article-image,
 .main-article .article-image {
   aspect-ratio: 16 / 9 !important;
@@ -12,5 +11,5 @@
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center center !important; /* same position for both */
+  object-position: center center !important;
 }
