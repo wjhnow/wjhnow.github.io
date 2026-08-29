@@ -6,7 +6,7 @@ description: "Following the recent, catastrophic glacial collapse and flash
   floods along the China-Nepal border, former Nepali ambassador to China, Dr.
   Krishna Prasad Oli, has stepped forward with a clear message: we cannot afford
   to politicize natural disasters."
-image: /img/2026-08-29.1-1.png
+image: /img/2026-08-29.3.png
 categories: flood, climate disaster
 ---
 In a recent interview with China Media Group, Dr. Oli—a veteran scholar who has spent years researching the Qinghai-Xizang Plateau and the Himalayan ecosystem—emphasized that the accelerating impacts of climate change are driving more frequent and intense disasters across the region. Given the sheer scale of these border-spanning risks, he argues that unified scientific cooperation is the only logical path forward.
