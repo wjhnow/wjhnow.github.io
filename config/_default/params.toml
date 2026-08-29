@@ -37,3 +37,9 @@ favicon        = "img/favicon.png"
 
 [comments]
     enabled  = false                         # turn on later if you want comments
+
+    # Explicitly overrides and removes the fallback theme social links
+[[sidebar.social]]
+name = ""
+url = ""
+
