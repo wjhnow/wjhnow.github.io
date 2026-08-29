@@ -26,12 +26,14 @@ content:
       - name: image
         type: image
         label: Cover Image
-      -  name: tags
-         label: Tags
-         type: list
-         required: false
+      - name: tags
+        label: Tags
+        type: list
+        required: false
       - name: categories
-        type: string
+        label: Categories
+        type: list
+        required: false
       - name: body
         type: rich-text
         required: true
