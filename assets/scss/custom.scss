@@ -1,29 +1,32 @@
-/* Homepage article cards - force 16:9 */
-.article-list {
-  .article-image {
-    aspect-ratio: 16 / 9;
-    overflow: hidden;
-
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;     // crops to fill 16:9
-      object-position: center; // you can change to top / bottom if needed
-    }
-  }
+/* ========== Homepage Cards (16:9) ========== */
+.article-list,
+.article-list article,
+.article-list .article-image,
+.article-list .article-image img {
+  aspect-ratio: 16 / 9 !important;
 }
 
-/* Single post page header image - also 16:9 */
-.main-article {
-  .article-image {
-    aspect-ratio: 16 / 9;
-    overflow: hidden;
+.article-list .article-image {
+  overflow: hidden;
+  width: 100%;
+}
 
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: bottom;
-    }
-  }
+.article-list .article-image img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+/* ========== Single Post Page (16:9) ========== */
+.main-article .article-image {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.main-article .article-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
