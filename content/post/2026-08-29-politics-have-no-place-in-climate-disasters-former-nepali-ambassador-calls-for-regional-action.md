@@ -6,7 +6,7 @@ description: "Following the recent, catastrophic glacial collapse and flash
   floods along the China-Nepal border, former Nepali ambassador to China, Dr.
   Krishna Prasad Oli, has stepped forward with a clear message: we cannot afford
   to politicize natural disasters."
-tags: nepal, flood, climate disaster
+tags: '"nepal", "flood", "climate disaster"'
 categories: flood, climate disaster
 image: /static/img/2026-08-29.1.png
 ---
