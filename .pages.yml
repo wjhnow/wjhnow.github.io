@@ -28,12 +28,12 @@ content:
         label: Cover Image
       - name: tags
         label: Tags
-        type: list
+        type: string
+        list: true
         required: false
       - name: categories
         label: Categories
-        type: list
+        type: string
+        list: true
         required: false
-      - name: body
-        type: rich-text
-        required: true
+        
