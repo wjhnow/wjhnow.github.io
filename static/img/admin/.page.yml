@@ -1,0 +1,38 @@
+media:
+  input: "static/img"
+  output: "/img"
+
+content:
+    - name: posts
+    label: "Blog Posts"
+    type: collection
+    path: "content/posts"
+    fields:
+            - name: title
+        label: Title
+        type: string
+        required: true
+            - name: description
+        label: Description
+        type: string
+            - name: date
+        label: Publish Date
+        type: datetime
+        required: true
+            - name: image
+        label: Featured Image
+        type: image
+            - name: slug
+        label: Custom URL Slug
+        type: string
+            - name: categories
+        label: Categories
+        type: list
+        required: false
+            - name: tags
+        label: Tags
+        type: list
+        required: false
+            - name: body
+        label: Content Body
+        type: rich-text
