@@ -1,3 +1,29 @@
-/*
-    You can add your own custom styles here.
-*/
+/* Homepage article cards - force 16:9 */
+.article-list {
+  .article-image {
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;     // crops to fill 16:9
+      object-position: center; // you can change to top / bottom if needed
+    }
+  }
+}
+
+/* Single post page header image - also 16:9 */
+.main-article {
+  .article-image {
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: bottom;
+    }
+  }
+}
