@@ -1,24 +1,18 @@
-/* ========== Homepage Cards (16:9) ========== */
-.article-list,
-.article-list article,
-.article-list .article-image,
-.article-list .article-image img {
-  aspect-ratio: 16 / 9 !important;
-}
-
+/* Homepage - force 16:9 on cover images only */
 .article-list .article-image {
+  aspect-ratio: 16 / 9;
   overflow: hidden;
   width: 100%;
 }
 
 .article-list .article-image img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important;
-  object-position: center !important;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
-/* ========== Single Post Page (16:9) ========== */
+/* Single post page */
 .main-article .article-image {
   aspect-ratio: 16 / 9;
   overflow: hidden;
