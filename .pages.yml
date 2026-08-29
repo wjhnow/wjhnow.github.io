@@ -36,4 +36,7 @@ content:
         type: string
         list: true
         required: false
+      - name: body
+        label: Article Content
+        type: rich-text
         
