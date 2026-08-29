@@ -1,4 +1,4 @@
-/* Force 16:9 style on both homepage and single post */
+/* 16:9 with logo edge protected */
 .article-list article .article-image,
 .main-article .article-image {
   aspect-ratio: 16 / 9 !important;
@@ -11,5 +11,5 @@
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center center !important;
+  object-position: 72% 65% !important; /* shifted to keep thin logo edge visible */
 }
