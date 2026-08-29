@@ -5,7 +5,7 @@ description: The BBC visited a town outside the Tibetan Autonomous Region and
   spoke to monks at Kirti monastery who described surveillance and denied
   rights.
 image: /img/1788023409074.jpg
-tags: +flood+Nepal +Tibet + China
+tags: +flood +Nepal +Tibet + China
 categories: World/Asia
 ---
 ABA - The town sits right on the edge. 
