@@ -1,8 +1,6 @@
-/* Force 16:9 and better crop control on homepage cards */
+/* Homepage cards - 16:9 with better crop position */
 .article-list article .article-image {
   aspect-ratio: 16 / 9 !important;
-  height: auto !important;
-  max-height: none !important;
   overflow: hidden !important;
 }
 
@@ -10,8 +8,7 @@
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center center !important;
-  transform: none !important;
+  object-position: 70% 60% !important; /* shifted to keep bottom-right logo visible */
 }
 
 /* Single post page */
@@ -24,5 +21,5 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center center;
+  object-position: 70% 60%;
 }
