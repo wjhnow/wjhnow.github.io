@@ -1,0 +1,41 @@
+media: static/img   # or assets/img / content/img — adjust to your preference
+
+content:
+  - name: posts
+    label: Blog Posts
+    type: collection
+    path: content/posts   # Stack often uses content/post or content/posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: date
+        type: date
+        options:
+          format: "yyyy-MM-dd"
+      - name: description
+        type: text
+      - name: tags
+        type: string
+        # or use a list/select if you prefer
+      - name: categories
+        type: string
+      - name: image
+        type: image
+        # featured image
+      - name: body
+        type: rich-text
+        required: true
+
+  - name: pages
+    label: Pages
+    type: collection
+    path: content
+    # exclude posts folder if needed
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
