@@ -4,8 +4,6 @@ date: 2026-08-29
 description: The BBC visited a town outside the Tibetan Autonomous Region and
   spoke to monks at Kirti monastery who described surveillance and denied
   rights.
-tags: Tibet, China, BBC, Kirti Monastery, Aba, Ngaba, Human Rights,
-  Surveillance, Tibetan Autonomous Region, Himalayas
 categories: World/Asia
 ---
 ABA - The town sits right on the edge. 
