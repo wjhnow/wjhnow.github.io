@@ -11,7 +11,6 @@ favicon        = "img/favicon.png"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "⚡"                          # change to any emoji you like
     subtitle = "Your short description here" # ← change this
     avatar   = "img/avatar.png"              # see step 3
 
