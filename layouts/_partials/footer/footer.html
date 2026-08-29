@@ -7,7 +7,13 @@
         {{ end }}
         {{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}
     </section>
-       <section class="powerby">
+
+    <!-- Social sharing buttons added to footer block -->
+    <section class="footer-share">
+        {{ partial "article/components/share.html" . }}
+    </section>
+
+    <section class="powerby">
         {{ with .Site.Params.footer.customText }}
             {{ . | safeHTML }} <br/>
         {{ end }}
