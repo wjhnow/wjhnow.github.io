@@ -1,12 +1,18 @@
-media: static/img   # or assets/img / content/img — adjust to your preference
+media:
+  input: static/img
+  output: /img
 
 content:
   - name: posts
     label: Blog Posts
     type: collection
-    path: content/post   # Stack often uses content/post or content/posts
+    path: content/post
     filename: "{year}-{month}-{day}-{primary}.md"
     format: yaml-frontmatter
+    view:
+      fields: [title, date, image]
+      sort: date
+      order: desc
     fields:
       - name: title
         type: string
@@ -17,25 +23,13 @@ content:
           format: "yyyy-MM-dd"
       - name: description
         type: text
-      - name: tags
-        type: string
-        # or use a list/select if you prefer
-      - name: categories
-        type: string
       - name: image
         type: image
-        # featured image
+        label: Cover Image
+      - name: tags
+        type: string
+      - name: categories
+        type: string
       - name: body
         type: rich-text
         required: true
-
-  - name: pages
-    label: Pages
-    type: collection
-    path: content
-    # exclude posts folder if needed
-    fields:
-      - name: title
-        type: string
-      - name: body
-        type: rich-text
