@@ -11,7 +11,7 @@ favicon        = "img/favicon.png"
     lastUpdated = ":date_full"
 
 [sidebar]
-    subtitle = "What just happened - tracking global incidents in real time" # ← change this
+    subtitle = "Tracking global incidents in real time" # ← change this
     avatar   = "img/avatar.png"              # see step 3
 
 [article]
