@@ -4,7 +4,7 @@ links:
   - title: Facebook
     description: Follow us on Facebook
     website: https://facebook.com/wjhnow
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png
+    image: https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg
 menu:
   main: 
     weight: 4
