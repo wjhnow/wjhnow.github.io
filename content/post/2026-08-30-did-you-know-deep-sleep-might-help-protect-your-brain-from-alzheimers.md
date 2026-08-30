@@ -3,6 +3,7 @@ title: Did you know? Deep sleep might help protect your brain from Alzheimer's
 date: 2026-07-08
 description: We already knew sleep and Alzheimer's were linked. But this new
   study points to why.
+image: /img/2026-07-15 Deep_Sleep.jpeg
 tags:
   - Sleep
   - Alzheimers
