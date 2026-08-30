@@ -3,6 +3,7 @@ title: OpenAI just put ads in ChatGPT... and India gets them first
 date: 2026-08-30
 description: No more ad-free ChatGPT. Free and Go users in India will now see
   ads from 50 brands inside ChatGPT.
+image: /img/2026-08-30 AI.jpeg
 tags:
   - OpenAI
   - ChatGPT Ads
