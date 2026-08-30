@@ -3,18 +3,18 @@
    ========================================================================== */
 .article-list article .article-image,
 .main-article .article-image {
-  aspect-ratio: 16 / 9 !important;
+  aspect-ratio: auto !important;   /* let image decide the ratio */
   overflow: hidden !important;
   width: 100%;
-  background: #111; /* dark background for any empty space */
 }
 
 .article-list article .article-image img,
 .main-article .article-image img {
   width: 100% !important;
-  height: 100% !important;
+  height: auto !important;
   object-fit: contain !important;
   object-position: center center !important;
+  display: block;
 }
 
 /* ==========================================================================
