@@ -2,6 +2,7 @@
 title: Did you know? Boiling in space is backwards
 date: 2026-07-01
 description: Ok this space boiling thing is actually insane
+image: /img/2026-07-01 boling  water in space.jpeg
 tags:
   - Science
   - Space
