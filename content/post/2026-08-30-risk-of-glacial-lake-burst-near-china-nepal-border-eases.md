@@ -4,7 +4,7 @@ date: 2026-08-30
 description: Satellite data shows the lake formed by a glacier collapse has
   shrunk by 21,000 sqm, but officials warn flood risk remains until both lakes
   drain. 7 dead, 554 missing.
-image: /img/Lake Burst Near China-Nepal Border.jpeg
+image: /img/Risk of Glacial Lake (1).png
 tags:
   - China
   - Nepal
@@ -40,4 +40,3 @@ Roads and communications remain cut off, complicating relief efforts, Xinhua rep
 
 Source: CCTV, Xinhua, China Water Resources Ministry, Nepal Disaster Management Authority
 
-  
