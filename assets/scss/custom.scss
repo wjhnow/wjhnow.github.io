@@ -12,8 +12,9 @@
 .main-article .article-image img {
   width: 100% !important;
   height: 100% !important;
-  object-fit: cover !important;
-  object-position: 60% 40% !important; /* higher focus to show more of the top */
+  object-fit: contain !important; /* shows full image, may add small bars */
+  object-position: center center !important;
+  background: #111;
 }
 
 /* ==========================================================================
