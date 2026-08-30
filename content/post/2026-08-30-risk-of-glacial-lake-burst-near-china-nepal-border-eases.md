@@ -18,24 +18,16 @@ tags:
 categories:
   - Asia>Natural Disaster> Floods
 ---
-**BEIJING, China / GYIRONG, Tibet-Nepal Border** — The glacial lake formed where two rivers meet on the border of China’s Tibet Autonomous Region and Nepal’s Bagmati Province.
+**Water’s Dropping at the Border. Now There’s Another Lake.**
 
-Satellite images from Thursday to Saturday morning show water is slowly cutting through the natural dam. As a result, the volume of water backed up behind it is dropping.
+**GYIRONG, Tibet-Nepal Border** — I’ve been watching the satellite updates for 3 days and this is the first time the numbers look better.
 
-**Lake area shrinks by 21,000 sqm**
+The lake that formed on the Tibet-Nepal line is draining. Not fast. But it’s draining.
 
-China’s Ministry of Water Resources said the lake on the Purepu Tsangpo River measured 99,000 square meters on the morning of August 29. That’s about the size of 14 football fields.
+As of Saturday morning China’s Water Ministry has it at 99,000 square meters. That’s down about 21,000 since Thursday. For context, that’s roughly 14 football fields of water that’s moved on. It shouldn’t have been there to begin with. Wednesday’s glacier collapse sent a wall of rock and ice down the Purepu Tsangpo. Took out the Gyirong crossing completely. 7 confirmed dead. 554 still missing. The roads are gone and nobody’s phones work. The fear wasn’t the flood we already had. It was the next one. If that natural dam went, it would have hit the crews working downstream with basically no warning.
 
-Compared to images from August 27, the lake has shrunk by 21,000 square meters.
+Friday they flew 15 guys from China Aneng in with drones and sat gear to watch it. Water did spill over Friday afternoon and they pulled everyone back for a few hours. Looked bad on the feed. Then the data came back okay and they went back in.
 
-The lake formed after a massive glacier collapse on August 27 sent rock, ice, mud and debris crashing down Himalayan rivers. The flood destroyed the border complex linking Tibet with Nepal, killed 7 people, and left 554 missing.
+Bad news though: there’s a second lake now. Lower down the slide path. Officials are calling it bigger than the first, over 120,000 sqm, but they don’t know the depth yet. Nobody does. It’s raining again in the valley. 50-odd workers are out there digging through what’s left of the port with shovels. On Friday the first team in said all they found was rubble.
 
-Experts and local officials warned of a high risk of secondary disasters in the valley. The biggest concern was the dammed lake. If it breached suddenly, it could have swept away rescue teams working downstream.
-
-**Rescuers monitor second, larger lake**
-
-China Aneng, the state engineering and rescue firm, has monitored the area since August 27. On August 28 it sent 15 specialists with reconnaissance drones, portable satellite stations, and mobile surveillance cameras to collect more data.
-
-Water overflowed from the first lake on August 28 and briefly paused search-and-rescue operations. After a new assessment, specialists said the situation remained under control.
-
-Authorities have also identified a second lake in the lower part of the collapse zone. It is larger than the first, but its depth is still unknown.
+So yeah, the first lake is shrinking. And yeah, we’re watching a second one form
