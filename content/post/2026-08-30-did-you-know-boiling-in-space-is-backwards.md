@@ -2,6 +2,13 @@
 title: Did you know? Boiling in space is backwards
 date: 2026-07-01
 description: Ok this space boiling thing is actually insane
+tags:
+  - Science
+  - Space
+  - Physics
+categories:
+  - Science
+  - Physics & Engineering
 ---
 So you know how when you boil water on Earth the bubbles go up? In space there IS no up.
 
