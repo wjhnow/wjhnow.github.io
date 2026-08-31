@@ -9,6 +9,7 @@ tags:
   - "Nepal flood "
   - "Nepal flash "
   - Nepal Tibet border
+  - WJHnow
 categories:
   - World
   - Disaster & weather
