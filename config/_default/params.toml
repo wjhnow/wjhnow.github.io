@@ -11,16 +11,15 @@ favicon        = "img/favicon.png"
     lastUpdated = ":date_full"
 
 [sidebar]
-    subtitle = "Tracking global incidents in real time" # ← change this
-    avatar   = "img/avatar.png"              # see step 3
+    subtitle = "What Just Happened NOW"          # ← Changed this
+    avatar   = "img/avatar.png"
 
 [article]
     headingAnchor = false
     math          = false
     readingTime   = true
-
     [article.license]
-        enabled = false                      # set to true if you want a license notice
+        enabled = false
 
 [widgets]
     homepage = [
@@ -33,13 +32,11 @@ favicon        = "img/favicon.png"
 
 [colorScheme]
     toggle  = true
-    default = "auto"                         # or "dark" / "light"
+    default = "auto"
 
 [comments]
-    enabled  = false                         # turn on later if you want comments
+    enabled  = false
 
-    # Explicitly overrides and removes the fallback theme social links
 [[sidebar.social]]
 name = ""
 url = ""
-
