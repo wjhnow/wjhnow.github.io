@@ -1,8 +1,43 @@
-# Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+# -------------------------------
+# Main Menu
+# -------------------------------
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[main.params]
+icon = "home"
+
+[[main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 2
+[main.params]
+icon = "archives"
+
+[[main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 3
+[main.params]
+icon = "search"
+
+# -------------------------------
+# Social Icons (Facebook + X)
+# -------------------------------
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://facebook.com/wjhnow"          # ← Change this
+[social.params]
+icon = "brand-facebook"
+
+[[social]]
+identifier = "x"
+name = "X"
+url = "https://x.com/wjhnow"             # ← Change this
+[social.params]
+icon = "brand-x"
