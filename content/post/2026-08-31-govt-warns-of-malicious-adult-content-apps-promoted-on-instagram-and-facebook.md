@@ -4,6 +4,7 @@ date: 2026-08-31
 description: Indian government issues alert on fake Android apps disguised as
   adult content being promoted via Instagram and Facebook ads. Officials warn
   they can steal passwords and bank data.
+image: /img/2026-08-31_fake_app.png
 tags:
   - Cybersecurity
   - "Android "
@@ -32,11 +33,8 @@ Govt Advisory
 The government has advised users to:
 
 - Download apps only from the official Google Play Store
-
 - Avoid clicking on suspicious ads or links on social media
-
 - Check app permissions before installing
-
 - Keep devices updated with the latest security patches
 
 Authorities also asked people to report such ads to Meta and to cybercrime helpline 1930.
