@@ -38,5 +38,9 @@ favicon        = "img/favicon.png"
     enabled  = false
 
 [[sidebar.social]]
-name = ""
-url = ""
+  name = "Facebook"
+  url  = "https://facebook.com/YourPageName"   # ← your real Facebook link
+
+[[sidebar.social]]
+  name = "X"
+  url  = "https://x.com/YourUsername"          # ← your real X link
