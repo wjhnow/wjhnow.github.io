@@ -1,9 +1,9 @@
 /* ==========================================================================
-   1. Image Styles (16:9 Aspect Ratio & Positioning)
+   1. Image Styles (Full image, minimal crop)
    ========================================================================== */
 .article-list article .article-image,
 .main-article .article-image {
-  aspect-ratio: auto !important;   /* let image decide the ratio */
+  aspect-ratio: auto !important;
   overflow: hidden !important;
   width: 100%;
 }
@@ -18,7 +18,7 @@
 }
 
 /* ==========================================================================
-   2. Component Styles (Share Buttons Base Layout)
+   2. Share Buttons
    ========================================================================== */
 .share-buttons,
 .footer-share {
@@ -30,7 +30,7 @@
   align-items: center;
   flex-wrap: wrap;
   font-size: 0.95rem;
-  color: var(--body-text-color); /* Dynamically uses theme font colors */
+  color: var(--body-text-color);
 
   a, button {
     padding: 0.4rem 0.9rem;
@@ -55,14 +55,23 @@
 }
 
 /* ==========================================================================
-   3. Dark Mode Core Overrides
+   3. Make "Follow us / Links" menu item non-clickable
+   ========================================================================== */
+.menu .menu-item a[href*="links"],
+.menu .menu-item a[href*="follow"] {
+  pointer-events: none;
+  cursor: default;
+  opacity: 0.85;
+}
+
+/* ==========================================================================
+   4. Dark Mode Overrides
    ========================================================================== */
 html[data-theme="dark"] {
   .share-buttons,
   .footer-share {
     color: var(--body-text-color) !important;
 
-    /* Enforce legible text colors inside the block components */
     span, p, h1, h2, h3, h4, div {
       color: var(--body-text-color) !important;
     }
