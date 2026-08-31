@@ -1,4 +1,4 @@
-mainSections = ["post"]
+mainSections   = ["post"]
 rssFullContent = true
 favicon        = "img/favicon.png"
 
@@ -11,8 +11,16 @@ favicon        = "img/favicon.png"
     lastUpdated = ":date_full"
 
 [sidebar]
-    subtitle = "What Just Happened NOW"          # ← Changed this
+    subtitle = "What Just Happened NOW"
     avatar   = "img/avatar.png"
+
+[[sidebar.social]]
+    name = "Facebook"
+    url  = "https://facebook.com/YourPage"      # ← Change this
+
+[[sidebar.social]]
+    name = "X"
+    url  = "https://x.com/YourUsername"         # ← Change this
 
 [article]
     headingAnchor = false
@@ -35,12 +43,4 @@ favicon        = "img/favicon.png"
     default = "auto"
 
 [comments]
-    enabled  = false
-
-[[sidebar.social]]
-  name = "Facebook"
-  url  = "https://facebook.com/wjhnow"   # ← your real Facebook link
-
-[[sidebar.social]]
-  name = "X"
-  url  = "https://x.com/wjhnow"          # ← your real X link
+    enabled = false
