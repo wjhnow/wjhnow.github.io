@@ -55,13 +55,20 @@
 }
 
 /* ==========================================================================
-   3. Make "Follow us / Links" menu item non-clickable
+   3. Disable "Follow us" link completely
    ========================================================================== */
 .menu .menu-item a[href*="links"],
 .menu .menu-item a[href*="follow"] {
-  pointer-events: none;
-  cursor: default;
-  opacity: 0.85;
+  pointer-events: none !important;
+  cursor: default !important;
+  color: var(--body-text-color) !important;
+  opacity: 0.9;
+}
+
+/* Optional: hide the page content if someone still opens it */
+body[data-page="links"] .main-article,
+body[data-page="follow-us"] .main-article {
+  display: none !important;
 }
 
 /* ==========================================================================
