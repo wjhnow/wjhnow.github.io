@@ -1,12 +1,7 @@
-baseurl = "https://www.wjhnow.com/"
-locale  = "en-us"
-title   = "What Just Happened NOW"
+baseURL = "https://your-site.github.io/"
+title = "What Just Happened NOW"
+languageCode = "en-us"
 
-defaultContentLanguage = "en"
-hasCJKLanguage = false
-
-# Remove or comment this out if you don't use Disqus
-# disqusShortname = "hugo-theme-stack"
-
-[pagination]
-    pagerSize = 5
+[params]
+  description = "Tracking global incidents in real time | What Just Happened NOW"
+  mainSections = ["post"]
