@@ -60,7 +60,28 @@
 }
 
 /* ==========================================================================
-   3. Dark Mode
+   3. Follow us label (above social icons)
+   ========================================================================== */
+.follow-us {
+  margin: 1.2rem 0 0.8rem;
+  text-align: center;
+
+  .follow-label {
+    display: block;
+    font-size: 0.8rem;
+    opacity: 0.7;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.3px;
+  }
+
+  .menu-social {
+    justify-content: center;
+    gap: 0.8rem;
+  }
+}
+
+/* ==========================================================================
+   4. Dark Mode
    ========================================================================== */
 html[data-theme="dark"] {
   .share-buttons,
