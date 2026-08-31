@@ -11,6 +11,7 @@ tags:
   - India Tech
   - Technology
   - WJHnow
+  - India
 categories:
   - Technology
 ---
