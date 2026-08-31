@@ -2,6 +2,13 @@ baseURL = "https://your-site.github.io/"
 title = "What Just Happened NOW"
 languageCode = "en-us"
 
+enableRobotsTXT = true
+
 [params]
   description = "Tracking global incidents in real time | What Just Happened NOW"
   mainSections = ["post"]
+  
+  [sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
