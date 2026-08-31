@@ -14,14 +14,6 @@ favicon        = "img/favicon.png"
     subtitle = "What Just Happened NOW"
     avatar   = "img/avatar.png"
 
-[[sidebar.social]]
-    name = "Facebook"
-    url  = "https://facebook.com/wjhnow"      # ← Change this
-
-[[sidebar.social]]
-    name = "X"
-    url  = "https://x.com/wjhnow"         # ← Change this
-
 [article]
     headingAnchor = false
     math          = false
