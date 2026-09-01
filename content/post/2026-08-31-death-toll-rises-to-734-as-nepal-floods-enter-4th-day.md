@@ -15,16 +15,30 @@ categories:
   - Disaster & weather
   - Asia
 ---
-734 dead. 2,500 missing. Nepal floods worsen. It’s day 4. 
+# 734 Dead, 2,500 Missing: Nepal Floods Enter Day 4
 
-At least 734 people are confirmed dead in Nepal after flash floods and mudslides ripped through the Himalayas.  Nearly 2,500 are still missing — including about 100 Americans.
+At least **734 people are confirmed dead** in Nepal after flash floods and mudslides ripped through the Himalayas. 
 
-Rescue teams from the Nepal Army, Police, and Armed Police Force have pulled 8,100 people to safety. But entire villages along the Nepal-Tibet border remain cut off.
+Nearly **2,500 people are still missing** — including about **100 Americans**.
 
-**The damage**:
+It’s now day 4 of the disaster. 
 
-Homes are gone. Bridges wiped out. Roads? Completely washed away. And in many areas, the power's still out.
+## Rescue and Damage
+Rescue teams from the Nepal Army, Police, and Armed Police Force have pulled **8,100 people to safety**. 
 
-**The scale:** 
+But entire villages along the Nepal-Tibet border remain cut off.
 
-90,000+ people affected,  according to Nepal Red Cross.  589 of the missing are foreigners. 261 have been rescued so far.Roads are still too damaged to get through in a lot of areas, and more rain is coming — and for a lot of families, that wait for any kind of news is still going on.
+**The damage:**
+- Homes are gone
+- Bridges wiped out  
+- Roads completely washed away
+- Power still out in many areas
+
+## The Scale
+According to the Nepal Red Cross, **90,000+ people have been affected**.
+
+Of those missing:
+- **589 are foreigners**
+- **261 have been rescued so far**
+
+Roads are still too damaged to get through in many areas. More rain is forecast — and for thousands of families, the wait for any news is still going on.
