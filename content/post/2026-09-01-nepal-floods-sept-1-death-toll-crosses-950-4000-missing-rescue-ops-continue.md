@@ -5,6 +5,7 @@ date: 2026-09-01
 description: Nepal flash floods have killed 939+ with nearly 4000 missing.
   11,000 rescued so far as rescuers dig through mud to find 500 workers trapped
   in hydropower tunnels
+image: /img/2026-09-01 nepal flood.png
 tags:
   - "Nepal flood "
   - Disaster
