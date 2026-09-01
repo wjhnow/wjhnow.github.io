@@ -14,17 +14,26 @@ tags:
 categories:
   - Technology
 ---
-Remember the first Mate XT? The one that folded out like a brochure and scratched if you looked at it wrong. Huawei apparently remembered too. They dropped a teaser ad today. Didn’t show much. But within an hour Weibo was full of what look like official renders. Dark purple, triple screen, and one big change: it folds inward now.
+# Huawei Teases Mate XT 2: Now Folds Inward With Cover Screen
 
-So instead of zig-zagging out, both sides fold in. G-fold, like Samsung’s tri-fold. Dumb name, honestly. But smart move. Means your screens aren’t facing the world when it’s in your pocket.
+Remember the first Mate XT? The one that folded out like a brochure and scratched if you looked at it wrong. 
 
-They also finally added a cover screen. The original forced you to unfold it just to check WhatsApp but this one has a little outer display. The cut-out is a pill, not a dot. Leakers are saying multispectral camera. Could be. Could also be nothing.
+Huawei apparently remembered too. They dropped a teaser ad today. Didn’t show much. But within an hour Weibo was full of what look like official renders.
 
-Back camera is still that octagon in the middle. Rim looks chunkier this time. They teased square and circle for months and then... nah, same shape.
+## What’s new
+**Dark purple. Triple screen. And one big change: it folds inward now.**
 
-Expected launch is on September 7. Huawei’s already blasting it on a billboard in Wangfujing, Beijing. 
+Instead of zig-zagging out, both sides fold in. G-fold, like Samsung’s tri-fold. Dumb name, honestly. But smart move. Means your screens aren’t facing the world when it’s in your pocket.
+
+They also finally added a **cover screen**. The original forced you to unfold it just to check WhatsApp. This one has a little outer display. The cut-out is a pill, not a dot. 
+
+Leakers are saying multispectral camera. Could be. Could also be nothing.
+
+The back camera is still that octagon in the middle. Rim looks chunkier this time. Huawei teased square and circle for months and then... nah, same shape.
+
+## Launch
+Expected launch is **September 7**. Huawei’s already blasting it on a billboard in Wangfujing, Beijing.
 
 Look, is it exciting? Kinda. The first one was a flex. This one actually sounds usable. If the cover screen is decent and the screens don’t die in 6 months, people might actually buy it instead of just posting it.
 
 We’ll find out next week.
-
