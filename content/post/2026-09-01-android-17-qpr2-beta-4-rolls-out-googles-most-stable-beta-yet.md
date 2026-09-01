@@ -4,6 +4,7 @@ date: 2026-09-01
 description: Google has released Android 17 QPR2 Beta 4. Users and developers
   call it the most stable and polished beta so far with major bug fixes and
   performance improvements.
+image: /img/2026-09-01 android 17.jpg
 tags:
   - Android 17
   - Google Android Beta
@@ -20,9 +21,11 @@ Google has pushed out Android 17 QPR2 Beta 4 to Pixel devices, and early feedbac
 The update focuses heavily on bug fixes, system stability, and performance improvements instead of new features. Testers report smoother animations, better battery life, and fewer app crashes compared to previous QPR2 builds.
 
 ## What’s new in QPR2 Beta 4
+
 This beta is part of Google’s Quarterly Platform Release program. QPR updates bring new features and fixes between major Android versions.
 
 Key improvements in Beta 4 include:
+
 - **System Stability**: Multiple background crash fixes and UI glitches resolved
 - **Performance**: Faster app launches and smoother scrolling reported by beta users  
 - **Bug Fixes**: Issues with Bluetooth, camera, and notifications addressed
