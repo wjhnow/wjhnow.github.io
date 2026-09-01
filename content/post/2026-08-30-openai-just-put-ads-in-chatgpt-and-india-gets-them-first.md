@@ -15,14 +15,30 @@ tags:
 categories:
   - Technology
 ---
-Honestly, saw this coming from a mile away. OpenAI told everyone Thursday: Free and Go users in India will start seeing ads inside ChatGPT. They updated their terms earlier this month and nobody read it. India makes sense though. 
+# OpenAI to Show Ads in ChatGPT for Free and Go Users in India
 
-100M weekly users and most are on free. That's basically a goldmine of eyeballs just sitting there. They're starting small - 50 brands only. Partnered with big ad agencies WPP + Omnicom. 
+OpenAI announced Thursday that Free and Go users in India will start seeing ads inside ChatGPT. 
 
-And next month anyone can buy ads if they spend ₹725/day. The pitch? "Show up when people are making decisions."
+The company updated its terms earlier this month, but few noticed. For India, the move makes sense — the country has 100M weekly users and most are on the free plan. That’s a massive audience for advertisers.
 
-So if you ask "best phone under 20k" don't be shocked if Samsung pops up. OpenAI's been chasing India hard. ₹29 plan. IPL ads. Hired Uber India's head.
+## How it will work
+OpenAI is starting small with just **50 brands** to begin with. The company has partnered with major ad agencies **WPP** and **Omnicom** to roll this out.
 
-US and Europe already have this since Feb. Oh and they're gearing up for an IPO too. $6.7B last quarter — impressive, but Wall Street always wants more. Free things aren't free forever I guess.
+Next month, the ad platform will open to anyone. The entry price: **₹725 per day**.
 
-Source: TechCrunch
+The pitch from OpenAI: "Show up when people are making decisions." 
+That means if you ask "best phone under 20k", don’t be surprised to see Samsung or other brands pop up in the results.
+
+## OpenAI’s India push
+This is part of a bigger India strategy. OpenAI has already launched a **₹29 plan**, ran ads during **IPL**, and hired Uber India’s former head to lead operations.
+
+Ads in ChatGPT are not new globally. The US and Europe have had them since February.
+
+The company is also gearing up for an IPO. It reported **$6.7B in revenue last quarter** — a big number, but Wall Street pressure for growth continues.
+
+Free things, it seems, aren’t free forever.
+
+---
+
+**Attribution**  
+This report is based on information from [TechCrunch](https://techcrunch.com). It has been rewritten and contextualized by the WJHnow editorial team.
