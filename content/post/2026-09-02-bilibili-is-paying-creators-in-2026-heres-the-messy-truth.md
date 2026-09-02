@@ -1,9 +1,8 @@
 ---
 title: Bilibili Is Paying Creators in 2026. Here's The Messy Truth
 date: 2026-09-02
-description: Bilibili monetization 2026 requirements explained. How Indian and
-  global creators can earn from ads, coins, and live gifts on the Chinese video
-  platform.
+description: 'Bilibili Monetization 2026: Requirements, Payouts, and Why the
+  Dashboard is "Cooked" for Global Creators'
 image: /img/2026-09-02_bilibili.jpeg
 tags:
   - Bilibili
@@ -45,6 +44,7 @@ Bilibili’s marketing: "Easy sign up for Westerners!"
 Reality: lol no.
 
 Saw this on X yesterday from a guy testing it:
+
 > "dashboard is live but translation is cooked 💀 payout setup took me an hour and im still not sure it worked. its youtube studio if youtube studio was made in 2009"
 
 That’s more honest than any PR line. [1][3]
@@ -61,5 +61,6 @@ But don’t quit YouTube.
 I’m gonna post 2 videos and forget about it for a month. If something happens I’ll update this.
 
 ---
+
 **Where I got this stuff**
 Read the GadgetsNow guides, NDTV piece, and scrolled X/Threads for 30 min to see what creators are actually saying. [1][2][5]
