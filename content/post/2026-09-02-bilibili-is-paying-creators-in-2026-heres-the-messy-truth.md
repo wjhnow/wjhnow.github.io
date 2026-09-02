@@ -1,5 +1,5 @@
 ---
-title: Bilibili Is Paying Creators in 2026. Here's The Messy Truth
+title: "Bilibili Monetization 2026: 1,000 Follower Rule, Payouts & The Catch"
 date: 2026-09-02
 description: 'Bilibili Monetization 2026: Requirements, Payouts, and Why the
   Dashboard is "Cooked" for Global Creators'
@@ -21,7 +21,7 @@ I downloaded Bilibili at 2am last Tuesday because I saw a meme about it on Reddi
 
 Figured I’d waste 20 minutes. Ended up wasting 2 hours.
 
-Bilibili is old. Like 16 years old. Started with anime. My brother used to watch it for that. Now it’s got 376M MAU. That’s from their press release last month when they launched the English site.
+Bilibili is old. Like 16 years old. Started with anime. My brother in India used to watch it for that. Now it’s got 376M MAU. That’s from their press release last month when they launched the English site.
 
 I don’t even know why I cared. Maybe just FOMO.
 
