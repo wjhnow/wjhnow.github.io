@@ -14,3 +14,10 @@ name = "X"
 url = "https://x.com/wjhnow"             # ← Change this
 [social.params]
 icon = "brand-x"
+
+[[social]]
+identifier = "Twitter"
+name = "Twitter"
+url = "https://t.me/wjh_now"             # ← Change this
+[social.params]
+icon = "brand-Twitter"
