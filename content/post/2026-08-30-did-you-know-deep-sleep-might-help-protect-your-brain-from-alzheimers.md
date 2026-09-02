@@ -3,7 +3,7 @@ title: Did you know? Deep sleep might help protect your brain from Alzheimer's
 date: 2026-07-08
 description: We already knew sleep and Alzheimer's were linked. But this new
   study points to why.
-image: /img/2026-07-15 Deep_Sleep.jpeg
+image: /img/2026-07-15 Deep_Sleep (2).jpeg
 tags:
   - Sleep
   - Alzheimers
@@ -23,6 +23,7 @@ They took **60 people, all 60+ with mild to moderate Alzheimer's**. Hooked them 
 What were they looking for? A chemical called **orexin**. It’s basically what tells your brain "stay awake" or "go sleep". They also measured deep sleep waves — the ones where you actually form memories. Then they checked who got worse 3 years later.
 
 ## What they found
+
 People with **high orexin** saw their Alzheimer's progress faster. Not great.
 
 But here’s the interesting part: the people who still had **strong deep sleep waves** seemed protected. 
@@ -32,6 +33,7 @@ Even with high orexin, if your sleep spindles were dense, the decline was slower
 Weird detail: **women had way more orexin** in their spinal fluid than men did. Researchers don’t know why yet.
 
 ## The reality check
+
 60 people is a small sample. One night of sleep isn’t long-term data. And they didn’t have a healthy control group to compare to. 
 
 So we can’t say “this cures anything”.
