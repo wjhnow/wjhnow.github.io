@@ -2,7 +2,7 @@
 title: Did you know? Boiling in space is backwards
 date: 2026-07-01
 description: Ok this space boiling thing is actually insane
-image: /img/2026-07-01 boling  water in space.jpeg
+image: /img/2026-07-01 boling  water in space1.jpeg
 tags:
   - Science
   - Space
@@ -26,6 +26,7 @@ So researchers from the University of Florida did a "dumb but cool" test. They t
 And???
 
 ## What they found
+
 It went the opposite way of what they thought. At first.
 
 Turns out when bubbles CAN’T float away, they just sit on the hot metal. And that weirdly makes them **pull heat out FASTER**. Way better cooling. 
@@ -39,6 +40,7 @@ Because all those bubbles just sit there and eventually glom together and dry th
 So it’s like... better, until it’s suddenly catastrophic.
 
 ## Why it matters
+
 Mars missions. Deep space. Rocket fuel has to stay cold for YEARS. 
 
 If engineers can figure out how to design tank walls to stop bubbles from doing this, we might actually make long missions work.
