@@ -1,18 +1,18 @@
 ---
-title: "## Day 7 in Syafrubesi: 'If We Find Anything Now, It's Just Parts  "
+title: "Day 7 in Syafrubesi: 'If We Find Anything Now, It's Just Parts  "
 date: 2026-09-03
 description: On the ground in Rasuwa, Nepal. Search crews have stopped looking
   for survivors after the Langtang Lirung collapse. Death toll over 1,200, 3,900
   missing.
+tags:
+  - Nepal
+  - Langtang Lirung
+  - Rasuwa
+  - Syafrubesi
+categories:
+  - Asia
 ---
-## Day 7 in Syafrubesi: 'If We Find Anything Now, It's Just Parts  
-  
-"  
-category: "Asia"  
-tags: ["Nepal", "Langtang Lirung", "Rasuwa", "Syafrubesi", "Trishuli", "Disaster", "On The Ground"]  
-author: "WJH.NOW Field Team"  
-featured_image: "/images/nepal-syafrubesi-mud-2026.jpg"  
-draft: false
+## Day 7 in Syafrubesi: 'If We Find Anything Now, It's Just Parts
 
 **SYAFRUBESI, Nepal** — The smell of wet river mud hits you long before you reach the banks of the Trishuli.
 
