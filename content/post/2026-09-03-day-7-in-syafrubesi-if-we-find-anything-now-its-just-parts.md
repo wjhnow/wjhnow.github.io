@@ -36,4 +36,5 @@ And the weather isn't helping. Rain started falling again over the ridges this m
 **Reporting**: On-ground notes from Syafrubesi, Rasuwa District. Sources: Nepal Army, local volunteers, District Administration Office.  
 **Last Updated**: September 3, 2026, 10:00 AM AST
 
-**Live updates:** [Telegram @wjh_now](https://t.me/wjh_now) | [X @wjhnow](https://x.com/wjhnow)
+**Live updates:** [Telegram @wjh_now](https://t.me/wjh_now) | [X @wjhnow | Facebook (.https://m.facebook.com/wjhnow) 
+
