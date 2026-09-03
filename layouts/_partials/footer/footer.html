@@ -1,10 +1,11 @@
-{{- $ThemeVersion := "4.0.3" -}}
 <footer class="site-footer">
-      <section class="powerby">
+    <section class="powerby">
         {{ with .Site.Params.footer.customText }}
             {{ . | safeHTML }} <br/>
         {{ end }}
-{{ partial "author-bio.html" . }}
+        
+        {{ partial "author-bio.html" . }}
+        
         Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &amp; 
         <a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener">Stack</a> theme
     </section>
