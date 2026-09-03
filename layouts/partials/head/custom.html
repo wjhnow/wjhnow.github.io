@@ -1,3 +1,7 @@
 <meta name="application-name" content="What Just Happened NOW">
 <meta name="apple-mobile-web-app-title" content="What Just Happened NOW">
 <meta property="og:site_name" content="What Just Happened NOW">
+
+{{ with .Params.robots }}
+<meta name="robots" content="{{ . }}">
+{{ end }}
