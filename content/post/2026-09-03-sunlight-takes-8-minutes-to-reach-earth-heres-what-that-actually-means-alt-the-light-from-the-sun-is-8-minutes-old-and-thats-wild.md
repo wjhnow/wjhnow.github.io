@@ -2,8 +2,26 @@
 title: "Sunlight Takes 8 Minutes To Reach Earth. Here's What That Actually Means
   Alt: The Light From The Sun Is 8 Minutes Old. And That's Wild"
 date: 2026-09-03
+description: >-
+  The sun on your face left 8 minutes ago. Here's why sunlight has a delay, how
+  long photons are really trapped inside the Sun, and what happens if the Sun
+  vanished right now.
+
+  156 chars. Answers the question + curiosity gap. Perfect for AI Overviews.
+tags:
+  - Space
+  - Sun
+  - Science
+  - Physics
+  - Did you know
+  - Earth
+  - Light
+  - wjhnow
+categories:
+  - Science
 ---
 # Sunlight Takes 8 Minutes To Reach Earth. Here's What That Actually Means
+
 Alt: The Light From The Sun Is 8 Minutes Old. And That's Wild
 
 Weird thought.
