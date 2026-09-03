@@ -4,6 +4,7 @@ date: 2026-09-02
 description: 'Bilibili Monetization 2026: Requirements, Payouts, and Why the
   Dashboard is "Cooked" for Global Creators'
 image: /img/2026-09-02_bilibili.jpeg
+author: Mr Wnow
 tags:
   - Bilibili
   - Creator Monetization
