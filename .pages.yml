@@ -47,3 +47,4 @@ content:
       - name: body
         label: Article Content
         type: rich-text
+        
