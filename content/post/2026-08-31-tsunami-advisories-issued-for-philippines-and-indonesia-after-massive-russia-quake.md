@@ -2,6 +2,7 @@
 title: Tsunami advisories issued for Philippines and Indonesia after massive
   Russia quake
 date: 2026-08-31
+robots: "noindex, follow"
 description: Philippines and Indonesia issue tsunami advisories after massive
   Russia earthquake. Waves under 1 metre expected, residents told to avoid
   beaches and coastal areas.
