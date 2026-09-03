@@ -4,6 +4,7 @@ date: 2026-09-03
 description: On the ground in Rasuwa, Nepal. Search crews have stopped looking
   for survivors after the Langtang Lirung collapse. Death toll over 1,200, 3,900
   missing.
+image: /img/2026-09-03_Nepal.jpeg
 tags:
   - Nepal
   - Langtang Lirung
