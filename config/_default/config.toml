@@ -5,7 +5,7 @@ languageCode = "en-us"
 enableRobotsTXT = true
 
 [params]
-  description = "Tracking global incidents in real time | What Just Happened NOW"
+  description = "What Just Happened NOW, The Latest From Science, Tech and The World Around Us"
   mainSections = ["post"]
   
   [sitemap]
