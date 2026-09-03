@@ -1,5 +1,5 @@
 ---
-title: About WJH.now - Science, Tech & Discoveries
+title: About WJH.now
 description: " WJH.now explains the latest from Science, Technology and The World Around Us. Fast, clear, and curiosity-driven."
 menu:
   main:
