@@ -4,6 +4,7 @@ date: 2026-07-08
 description: We already knew sleep and Alzheimer's were linked. But this new
   study points to why.
 image: /img/2026-07-15 Deep_Sleep (2).jpeg
+author: Mr. JH
 tags:
   - Sleep
   - Alzheimers
