@@ -1,6 +1,7 @@
 ---
 title: Risk of Glacial Lake Burst Near China-Nepal Border Eases
 date: 2026-08-30
+robots: "noindex, follow"
 description: Satellite data shows the lake formed by a glacier collapse has
   shrunk by 21,000 sqm, but officials warn flood risk remains until both lakes
   drain. 7 dead, 554 missing.
