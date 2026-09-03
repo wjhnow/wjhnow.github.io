@@ -1,19 +1,8 @@
 <footer class="article-footer">
-    <!-- Preserves your post's tags and categories layout -->
+    <!-- Article Tags -->
     {{ partial "article/components/tags" . }}
 
-    <!-- Correctly styled Live Social Updates Block -->
-    <div class="post-updates-footer" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--border); font-size: var(--article-font-size); color: var(--card-text-color-main); line-height: 1.75;">
-        <strong>Live updates:</strong> 
-        <a href="https://t.me" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">Telegram @wjh_now</a> | 
-        <a href="https://x.com" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">X @wjhnow</a> | 
-        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">Facebook @wjhnow</a>
-    </div>
-    <footer class="article-footer">
-    <!-- Preserves your post's tags and categories layout -->
-    {{ partial "article/components/tags" . }}
-
-    <!-- Correctly styled Live Social Updates Block -->
+    <!-- Live Social Updates Block -->
     <div class="post-updates-footer" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--border); font-size: var(--article-font-size); color: var(--card-text-color-main); line-height: 1.75;">
         <strong>Live updates:</strong> 
         <a href="https://t.me" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">Telegram @wjh_now</a> | 
@@ -35,6 +24,20 @@
       {{ if or (eq $authorStr "Mr. JH") (eq $authorStr "mr. jh") }}
         <img src="{{ "img/mr-jh.png" | relURL }}" alt="Mr. JH" width="60" height="60" style="border-radius: 50%; object-fit: cover;">
         <div>
+          <strong style="display: block; font-size: 1.05rem; margin-bottom: 0.25rem;">Written by Mr. JH</strong>
+          <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;">I’m the science nerd. I dig through research papers and turn "quantum entanglement" into "here’s why it’s weird".</p>
+        </div>
+      {{ else if or (eq $authorStr "Mr Wnow") (eq $authorStr "mr wnow") (eq $authorStr "Mr. Wnow") }}
+        <img src="{{ "img/mr-wnow.png" | relURL }}" alt="Mr Wnow" width="60" height="60" style="border-radius: 50%; object-fit: cover;">
+        <div>
+          <strong style="display: block; font-size: 1.05rem; margin-bottom: 0.25rem;">Written by Mr Wnow</strong>
+          <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;">I’m the tech guy. Leaks, gadgets, AI, and all the "how does this actually work" stuff.</p>
+        </div>
+      {{ end }}
+    </div>
+    {{ end }}
+</footer>
+<div>
           <strong style="display: block; font-size: 1.05rem; margin-bottom: 0.25rem;">Written by Mr. JH</strong>
           <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;">I’m the science nerd. I dig through research papers and turn "quantum entanglement" into "here’s why it’s weird".</p>
         </div>
