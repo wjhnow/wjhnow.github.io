@@ -33,6 +33,12 @@
       "height": 60
     }
   },
+  {{ with .Params.categories }}
+  "articleSection": {{ index . 0 | jsonify }},
+  {{ end }}
+  {{ with .Params.tags }}
+  "keywords": {{ . | jsonify }},
+  {{ end }}
   "isAccessibleForFree": true
 }
 </script>
