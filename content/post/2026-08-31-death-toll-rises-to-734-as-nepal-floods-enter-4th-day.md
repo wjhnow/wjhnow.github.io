@@ -1,6 +1,7 @@
 ---
 title: Death toll rises to 734 as Nepal floods enter 4th day
 date: 2026-08-31
+robots: "noindex, follow"
 description: "`At least 734 people are dead and nearly 2,500 are missing in
   Nepal after catastrophic floods and mudslides. Rescue efforts are hampered 4
   days after the disaster hit the Nepal-Tibet border.`"
