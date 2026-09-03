@@ -13,30 +13,45 @@ content:
       fields: [title, date, image]
       sort: date
       order: desc
-    fields:
-      - name: title
-        type: string
-        required: true
-      - name: date
-        type: date
-        options:
-          format: "yyyy-MM-dd"
-      - name: description
-        type: text
-      - name: image
-        type: image
-        label: Cover Image
-      - name: tags
-        label: Tags
-        type: string
-        list: true
-        required: false
-      - name: categories
-        label: Categories
-        type: string
-        list: true
-        required: false
-      - name: body
-        label: Article Content
-        type: rich-text
+  fields:
+  - name: title
+    type: string
+    required: true
+
+  - name: date
+    type: date
+    options:
+      format: "yyyy-MM-dd"
+
+  - name: description
+    type: text
+
+  - name: image
+    type: image
+    label: Cover Image
+
+  - name: author
+    label: Author
+    type: select
+    options:
+      values:
+        - Mr. JH
+        - Mr Wnow
+    required: false
+
+  - name: tags
+    label: Tags
+    type: string
+    list: true
+    required: false
+
+  - name: categories
+    label: Categories
+    type: string
+    list: true
+    required: false
+
+  - name: body
+    label: Article Content
+    type: rich-text
         
