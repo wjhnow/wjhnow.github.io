@@ -1,19 +1,23 @@
-{{ $author := .Params.author }}
+{{/* Fetch author from .Params.author or .Params.authors */}}
+{{ $author := .Params.author | default .Params.authors }}
 
-{{/* Handle cases where 'author' in front matter might be a list or a string */}}
+{{/* If author is a slice/list (e.g. authors: ["Mr. JH"]), get the first element */}}
 {{ if reflect.IsSlice $author }}
   {{ $author = index $author 0 }}
 {{ end }}
 
-{{ if $author }}
+{{/* Convert to string */}}
+{{ $authorStr := printf "%v" $author }}
+
+{{ if $authorStr }}
 <div class="author-bio">
-  {{ if eq $author "Mr. JH" }}
+  {{ if or (eq $authorStr "Mr. JH") (eq $authorStr "mr. jh") }}
     <img src="{{ "img/mr-jh.png" | relURL }}" alt="Mr. JH" width="60" height="60">
     <div>
       <strong>Written by Mr. JH</strong>
       <p>I’m the science nerd. I dig through research papers and turn "quantum entanglement" into "here’s why it’s weird".</p>
     </div>
-  {{ else if eq $author "Mr Wnow" }}
+  {{ else if or (eq $authorStr "Mr Wnow") (eq $authorStr "mr wnow") }}
     <img src="{{ "img/mr-wnow.png" | relURL }}" alt="Mr Wnow" width="60" height="60">
     <div>
       <strong>Written by Mr Wnow</strong>
