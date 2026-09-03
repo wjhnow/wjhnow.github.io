@@ -1,17 +1,17 @@
 <footer class="article-footer">
     <!-- Article Tags -->
-    {{ partial "article/components/tags" . }}
+    {{ partial "article/components/tags". }}
 
     <!-- Live Social Updates Block -->
     <div class="post-updates-footer" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--border); font-size: var(--article-font-size); color: var(--card-text-color-main); line-height: 1.75;">
-        <strong>Live updates:</strong> 
-        <a href="https://t.me" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">Telegram @wjh_now</a> | 
-        <a href="https://x.com" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">X @wjhnow</a> | 
+        <strong>Live updates:</strong>
+        <a href="https://t.me" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">Telegram @wjh_now</a> |
+        <a href="https://x.com" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">X @wjhnow</a> |
         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" style="color: var(--tw-prose-links); text-decoration: underline;">Facebook @wjhnow</a>
     </div>
 
     <!-- Author Bio Section -->
-    {{ $author := .Params.author | default .Params.authors }}
+    {{ $author :=.Params.author | default.Params.authors }}
 
     {{ if reflect.IsSlice $author }}
       {{ $author = index $author 0 }}
@@ -29,6 +29,7 @@
           <strong style="display: block; font-size: 1.05rem; margin-bottom: 0.25rem;">
             Written by <a href="{{ "/about-wjh.now/" | relURL }}" style="color: inherit; text-decoration: underline;">Mr. JH</a>
           </strong>
+          <span style="display: block; font-size: 0.85rem; opacity: 0.7; margin-bottom: 0.35rem;">mr.jh [at] wjhnow [dot] com</span>
           <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;">I’m the science nerd. I dig through research papers and turn "quantum entanglement" into "here’s why it’s weird".</p>
         </div>
       {{ else if or (eq $authorStr "Mr Wnow") (eq $authorStr "mr wnow") (eq $authorStr "Mr. Wnow") }}
@@ -39,6 +40,7 @@
           <strong style="display: block; font-size: 1.05rem; margin-bottom: 0.25rem;">
             Written by <a href="{{ "/about-wjh.now/" | relURL }}" style="color: inherit; text-decoration: underline;">Mr Wnow</a>
           </strong>
+          <span style="display: block; font-size: 0.85rem; opacity: 0.7; margin-bottom: 0.35rem;">mr.wnow [at] wjhnow [dot] com</span>
           <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;">I’m the tech guy. Leaks, gadgets, AI, and all the "how does this actually work" stuff.</p>
         </div>
       {{ end }}
