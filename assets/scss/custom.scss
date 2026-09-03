@@ -83,7 +83,38 @@
 }
 
 /* ==========================================================================
-   4. Dark Mode
+   4. Author Bio
+   ========================================================================== */
+.author-bio {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--card-separator-color);
+
+  img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+  }
+
+  strong {
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.8;
+    line-height: 1.5;
+  }
+}
+
+/* ==========================================================================
+   5. Dark Mode
    ========================================================================== */
 html[data-theme="dark"] {
   .share-buttons,
