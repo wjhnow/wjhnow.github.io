@@ -2,6 +2,7 @@
 title: "Nepal Floods Sept 1: Death Toll Crosses 950, 4000+ Missing, Rescue Ops
   Continue"
 date: 2026-09-01
+robots: "noindex, follow"
 description: Nepal flash floods have killed 939+ with nearly 4000 missing.
   11,000 rescued so far as rescuers dig through mud to find 500 workers trapped
   in hydropower tunnels
