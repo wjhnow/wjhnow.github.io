@@ -8,6 +8,7 @@ description: >-
   vanished right now.
 
   156 chars. Answers the question + curiosity gap. Perfect for AI Overviews.
+image: /img/2026-03-09 space.jpeg
 tags:
   - Space
   - Sun
