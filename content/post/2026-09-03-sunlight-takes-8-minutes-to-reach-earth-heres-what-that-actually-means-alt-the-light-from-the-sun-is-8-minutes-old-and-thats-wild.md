@@ -6,6 +6,7 @@ description: The sun on your face left 8 minutes ago. Here's why sunlight has a
   delay, how long photons are really trapped inside the Sun, and what happens if
   the Sun vanished right now.
 image: /img/2026-03-09 space.jpeg
+author: Mr. JH
 tags:
   - Space
   - Sun
