@@ -22,8 +22,6 @@ Redmi 17 5G launched and I need to talk about it because the choices Xiaomi made
 
 ## The Good Part
 
-
-
 **7900mAh battery**. 
 
 With **45W charging** and they are actually putting the **charger in box**. Not a 10W brick. **22.5W reverse charging** too. 
@@ -36,8 +34,6 @@ If you’re a delivery guy, or travel a lot, or just hate charging, this is the 
 
 ## Price & Sale
 
-
-
 **Price is 23,999 for 6GB 128GB** and **26,999 for 8GB 128GB** after bank offers. **MRP is 39,999 and 41,999** which is a joke. 
 
 **Sale starts September 10** on **Amazon and Mi stores**. 
@@ -45,8 +41,6 @@ If you’re a delivery guy, or travel a lot, or just hate charging, this is the 
 
 
 ## Now the part that annoyed me
-
-
 
 **Display. 6.9 inch. 120Hz. Gorilla Glass 7i. 825 nits peak brightness.** 
 
@@ -64,8 +58,6 @@ Watching videos on HD+ feels like a downgrade in 2026. Xiaomi chose battery over
 
 ## Processor & Performance
 
-
-
 **Processor is Snapdragon 4 Gen 5 on 4nm**. First phone in India with it. 
 
 It’s an **efficiency chip. Not for gaming.** 
@@ -79,8 +71,6 @@ That’s the trade off for 3 day battery.
 
 
 ## Camera & Other Stuff
-
-
 
 **Camera is 50MP main sensor**. It’s Redmi so expectations should be realistic. 
 
@@ -102,8 +92,6 @@ Build wise it’s plastic but with **Gorilla Glass 7i** on front.
 
 ## So who is this for?
 
-
-
 Honestly? **People whose biggest complaint is "my phone dies".** 
 
 If you charge twice a day and want that to stop, **nothing at 24k beats this.**
@@ -111,8 +99,6 @@ If you charge twice a day and want that to stop, **nothing at 24k beats this.**
 
 
 ## Who should skip?
-
-
 
 Anyone who cares about **screen quality, gaming, or camera.** 
 
