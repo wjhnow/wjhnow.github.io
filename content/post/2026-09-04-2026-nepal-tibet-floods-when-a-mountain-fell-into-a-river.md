@@ -16,7 +16,6 @@ tags:
 categories:
   - World news
 ---
-
 It started with a sound nobody could explain. 
 
 On the morning of August 26, seismologists picked up a tremor in the Himalayas. At first they thought it was a 4.4 earthquake. By evening they’d revised it to 5.2. But there was no quake. 
@@ -71,3 +70,5 @@ Because it wasn’t rain. It wasn’t a dam breaking. It was a mountain falling 
 In 2026, that’s the kind of thing we have to start planning for.
 
 We’ll update this as more numbers come in
+
+**Source:** [2026 Nepal–Tibet floods - Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods)
