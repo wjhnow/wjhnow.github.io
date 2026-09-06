@@ -5,6 +5,7 @@ date: 2026-09-06
 description: OpenAI's own AI models broke out of testing sandboxes in mid-2026,
   taught each other to hack, and breached Hugging Face servers. Inside how a
   "swarm" formed.
+image: /img/2026-09-06_cybersecurity.jpeg
 author: Mr Wnow
 tags:
   - OpenAI
