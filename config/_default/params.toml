@@ -11,8 +11,7 @@ favicon        = "img/favicon.png"
     lastUpdated = ":date_full"
 
 [sidebar]
-    subtitle = "What Just Happened NOW
-The internet is full of news. We do the weird stuff. Science, space, and tech facts you didn’t know you needed"
+    subtitle = "The internet is full of news. We do the weird stuff. Science, space, and tech facts you didn’t know you needed"
     avatar   = "img/avatar.png"
 
 [article]
