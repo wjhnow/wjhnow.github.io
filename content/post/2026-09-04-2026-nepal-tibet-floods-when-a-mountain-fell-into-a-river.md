@@ -1,6 +1,7 @@
 ---
 title: "2026 Nepal–Tibet Floods: When a Mountain Fell Into a River"
 date: 2026-09-04
+robots: "noindex, follow"
 description: >
   On August 26, 2026 a bedrock collapse on Langtang Lirung triggered a massive
   debris flow that killed 1100+ and destroyed Gyirong Port. Here's what happened
