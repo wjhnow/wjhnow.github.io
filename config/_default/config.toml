@@ -5,7 +5,7 @@ languageCode = "en-us"
 enableRobotsTXT = true
 
 [params]
-  description = "What Just Happened NOW, The Latest From Science, Tech and The World Around Us"
+  description = "The internet is full of news. We do the weird stuff. Science, space, and tech facts you didn’t know you needed."
   mainSections = ["post"]
   
   [sitemap]
