@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private folders (optional)
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://wjhnow.com/sitemap.xml
