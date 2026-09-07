@@ -4,6 +4,7 @@ date: 2026-09-07
 description: The image in your eye is upside down. So why does everything look
   normal? Learn how your brain flips reality, the goggles experiment, and what
   it says about neuroplasticity.
+image: /img/2026-09-07_eyes.jpeg
 author: Mr. JH
 tags:
   - brain
