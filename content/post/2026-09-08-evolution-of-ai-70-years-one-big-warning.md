@@ -4,6 +4,7 @@ date: 2026-09-08
 description: AI has been evolving for 70 years — from rule-based systems to
   today's autonomous agents. Here's where it actually stands, and why experts
   are worried about what's next.
+image: /img/2026-09-08_AI.jpeg
 author: Mr Wnow
 tags:
   - AI-Artificial Intelligence
@@ -72,4 +73,5 @@ The technology really is changing how science gets done and how software gets bu
 The one thing almost everyone agrees on: the next few years matter more than usual, because the rules being set now decide how much control gets handed over and how much gets kept. Nobody's coming back to claim it later if it's given away.
 
 ---
+
 *wjhnow.com — the internet is full of news, we do the weird stuff. Science, space, and tech facts you didn't know you needed.*
