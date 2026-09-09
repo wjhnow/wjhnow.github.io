@@ -5,6 +5,7 @@ description: A look at the Many-Worlds Interpretation of quantum mechanics —
   where it actually comes from, whether your everyday choices really branch
   reality, and one person's honest, uncertain take on it through the lens of
   "i'lm-e-ghaib."
+image: /img/2026-09-09_split_universe-1.jpeg
 author: Mr. JH
 tags:
   - Quantum mechanics
