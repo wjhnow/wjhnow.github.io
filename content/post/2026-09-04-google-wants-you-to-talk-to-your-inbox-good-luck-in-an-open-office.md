@@ -1,9 +1,9 @@
 ---
 title: "Google’s New Gmail Live, Docs Live & Keep Live: What’s Actually Useful?"
 date: 2026-09-04
-description: Google launched Gmail Live, Docs Live, and Keep Live on Sept 3.
-  Gmail Live is genuinely useful on the go. The other two? Weird in public and
-  locked behind a paywall.
+description: Google launched Gmail Live, Docs Live, and Keep Live on September
+  3. Gmail Live is genuinely useful while you’re on the go. The other two feel
+  awkward in public and sit behind a paywall.
 image: /img/2026-09-04_google.jpeg
 author: Mr Wnow
 tags:
