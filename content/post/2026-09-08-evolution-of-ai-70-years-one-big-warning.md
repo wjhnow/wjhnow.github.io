@@ -1,5 +1,5 @@
 ---
-title: "Evolution of AI: 70 Years, One Big Warning"
+title: "70 Years of AI: Where It Stands and the Big Warning Experts Give"
 date: 2026-09-08
 description: AI has been evolving for 70 years — from rule-based systems to
   today's autonomous agents. Here's where it actually stands, and why experts
