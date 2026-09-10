@@ -1,5 +1,5 @@
 ---
-title: Google Wants You to Talk to Your Inbox. Good Luck in an Open Office.
+title: Google’s New Gmail Live, Docs
 date: 2026-09-04
 description: Google launched Gmail Live, Docs Live, and Keep Live on Sept 3.
   Gmail Live is genuinely useful on the go. The other two? Weird in public and
