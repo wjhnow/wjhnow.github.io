@@ -1,9 +1,11 @@
 ---
-title: "Redmi 17 5G India: 7900mAh Battery Beast But HD+ Screen at 24k Makes No Sense"
+title: "Redmi 17 5G Review: Huge 7900mAh Battery but HD+ Screen at ₹23,999"
 date: 2026-09-04
-description: Redmi 17 5G launched in India at 23,999 with massive 7900mAh
-  battery, 45W charging, Snapdragon 4 Gen 5. But HD+ display at 24k is a big
-  compromise. Check specs, price, sale date and who should buy it.
+description: >-
+  
+  Redmi 17 5G launched in India at 23,999 with massive 7900mAh battery, 45W
+  charging, Snapdragon 4 Gen 5. But HD+ display at 24k is a big compromise.
+  Check specs, price, sale date and who should buy it.
 image: /img/2026-09-04 redmi17 5g.jpeg
 author: Mr Wnow
 tags:
