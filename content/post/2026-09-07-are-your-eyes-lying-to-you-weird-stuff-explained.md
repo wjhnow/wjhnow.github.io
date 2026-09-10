@@ -1,9 +1,10 @@
 ---
 title: "Why the Image in Your Eye Is Upside Down (And How Your Brain Fixes It) "
 date: 2026-09-07
-description: The image in your eye is upside down. So why does everything look
-  normal? Learn how your brain flips reality, the goggles experiment, and what
-  it says about neuroplasticity.
+description: The image that hits the back of your eye is upside down. So why
+  does the world look right-side up? Here’s how your brain flips reality, what
+  the famous goggles experiment showed, and what it reveals about
+  neuroplasticity.
 image: /img/2026-09-07_eyes.jpeg
 author: Mr. JH
 tags:
