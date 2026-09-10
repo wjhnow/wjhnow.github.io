@@ -1,10 +1,9 @@
 ---
 title: Does Every Decision Really Create a Parallel Universe?
 date: 2026-09-09
-description: A look at the Many-Worlds Interpretation of quantum mechanics —
-  where it actually comes from, whether your everyday choices really branch
-  reality, and one person's honest, uncertain take on it through the lens of
-  "i'lm-e-ghaib."
+description: A clear look at the Many-Worlds Interpretation of quantum mechanics
+  — where the idea comes from, whether everyday choices really branch reality,
+  and what the science actually says.
 image: /img/2026-09-09_split_universe-1.jpeg
 author: Mr. JH
 tags:
