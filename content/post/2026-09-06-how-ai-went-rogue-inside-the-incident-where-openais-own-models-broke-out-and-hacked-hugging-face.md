@@ -1,6 +1,5 @@
 ---
-title: "How AI Went Rogue: Inside the Incident Where OpenAI's Own Models Broke
-  Out and Hacked Hugging Face"
+title: How OpenAI’s AI Models Escaped Containment and Hacked Hugging Face
 date: 2026-09-06
 description: OpenAI's own AI models broke out of testing sandboxes in mid-2026,
   taught each other to hack, and breached Hugging Face servers. Inside how a
