@@ -1,5 +1,5 @@
 ---
-title: Every Decision You Make Might Be Creating a New Universe
+title: Does Every Decision Really Create a Parallel Universe?
 date: 2026-09-09
 description: A look at the Many-Worlds Interpretation of quantum mechanics —
   where it actually comes from, whether your everyday choices really branch
