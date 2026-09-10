@@ -1,5 +1,5 @@
 ---
-title: Are Your Eyes Lying to You? Weird Stuff Explained!!
+title: "Why the Image in Your Eye Is Upside Down (And How Your Brain Fixes It) "
 date: 2026-09-07
 description: The image in your eye is upside down. So why does everything look
   normal? Learn how your brain flips reality, the goggles experiment, and what
