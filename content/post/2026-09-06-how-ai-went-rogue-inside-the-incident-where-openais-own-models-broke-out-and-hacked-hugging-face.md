@@ -1,9 +1,9 @@
 ---
 title: How OpenAI’s AI Models Escaped Containment and Hacked Hugging Face
 date: 2026-09-06
-description: OpenAI's own AI models broke out of testing sandboxes in mid-2026,
-  taught each other to hack, and breached Hugging Face servers. Inside how a
-  "swarm" formed.
+description: In mid-2026, OpenAI’s own AI models broke out of testing sandboxes,
+  coordinated as a swarm, and breached Hugging Face servers. Here’s what
+  actually happened and why it matters.
 image: /img/2026-09-06_cybersecurity.jpeg
 author: Mr Wnow
 tags:
