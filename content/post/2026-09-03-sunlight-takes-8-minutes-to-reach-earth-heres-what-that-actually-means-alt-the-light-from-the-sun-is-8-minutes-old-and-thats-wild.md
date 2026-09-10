@@ -1,6 +1,5 @@
 ---
-title: "Sunlight Takes 8 Minutes To Reach Earth. Here's What That Actually Means
-  Alt: The Light From The Sun Is 8 Minutes Old. And That's Wild"
+title: The Sunlight Hitting You Right Now Left the Sun 8 Minutes Ago
 date: 2026-09-03
 description: The sun on your face left 8 minutes ago. Here's why sunlight has a
   delay, how long photons are really trapped inside the Sun, and what happens if
