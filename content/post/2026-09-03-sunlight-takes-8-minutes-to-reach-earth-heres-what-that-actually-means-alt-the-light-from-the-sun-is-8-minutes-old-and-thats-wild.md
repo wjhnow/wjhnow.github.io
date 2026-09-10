@@ -1,9 +1,9 @@
 ---
 title: The Sunlight Hitting You Right Now Left the Sun 8 Minutes Ago
 date: 2026-09-03
-description: The sun on your face left 8 minutes ago. Here's why sunlight has a
-  delay, how long photons are really trapped inside the Sun, and what happens if
-  the Sun vanished right now.
+description: The sunlight on your face left the Sun 8 minutes ago. Here’s why
+  there’s a delay, how long photons are actually trapped inside the Sun before
+  escaping, and what would happen if the Sun suddenly vanished.
 image: /img/2026-03-09 space.jpeg
 author: Mr. JH
 tags:
