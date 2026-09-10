@@ -1,5 +1,5 @@
 ---
-title: Google’s New Gmail Live, Docs
+title: "Google’s New Gmail Live, Docs Live & Keep Live: What’s Actually Useful?"
 date: 2026-09-04
 description: Google launched Gmail Live, Docs Live, and Keep Live on Sept 3.
   Gmail Live is genuinely useful on the go. The other two? Weird in public and
