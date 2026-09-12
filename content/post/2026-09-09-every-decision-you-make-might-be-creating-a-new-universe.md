@@ -18,13 +18,11 @@ tags:
 categories:
   - Science & Physics
 ---
-<span class="category-badge">SCIENCE</span>
+SCIENCE
 
 # Every Decision You Make Might Be Creating a New Universe
 
-<p class="article-subtitle">Every time you choose one thing instead of another, a version of you might keep going down the path you didn't take.</p>
-
-<div class="article-meta">September 12, 2026 · 5 min read · By WJH</div>
+Every time you choose one thing instead of another, a version of you might keep going down the path you didn't take.
 
 Did you know. Or do you believe if I say every time you choose one thing instead of another, a version of you might keep going down the path you didn't take.
 
@@ -79,10 +77,3 @@ Normally we assume that when we make a choice, the other option just disappears.
 You only get to experience one of those branches — this one, the one you're in right now, reading this. But if this idea holds up, other versions might still be happening somewhere. Not less real than yours. Just somewhere you can't reach. You can't see them, you definitely can't talk to them, they're just out there, on some other branch of the same enormous structure.
 
 Personally, I don't believe this. But I'll admit I don't know — because this is "i'lm-e-ghaib," the knowledge of the unknown. Whether other branches of reality really exist isn't something any of us can verify from where we're standing. I first came across this whole idea on the internet, and it's stuck with me since — not because I'm convinced, but because it's one of those thoughts that's hard to fully let go of once you've had it.
-
-<div class="article-tags">
-<a href="#">Quantum Physics</a>
-<a href="#">Many Worlds</a>
-<a href="#">Science</a>
-<a href="#">Philosophy</a>
-</div>
